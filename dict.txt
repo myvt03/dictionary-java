@@ -1,0 +1,4 @@
+doctor:bác sĩ
+apple:quả táo
+teacher:giáo viên
+engineer:kỹ sư
